@@ -55,14 +55,4 @@ public class KeyboardRow {
 
         return result;
     }
-
-    public static void main(String[] args) {
-        String[] words = {"adsdf", "sfd"};
-
-        String[] result = new KeyboardRow().findWords(words);
-
-        for (String str : result) {
-            System.out.println(str);
-        }
-    }
 }

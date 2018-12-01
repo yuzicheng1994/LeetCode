@@ -19,19 +19,4 @@ public class AddTwoNumbers {
         }
         return dummyHead.next;
     }
-
-    public static void main(String[] args) {
-        ListNode l1 = new ListNode(2);
-        l1.next = new ListNode(4);
-        l1.next.next = new ListNode(3);
-        ListNode l2 = new ListNode(5);
-        l2.next = new ListNode(6);
-        l2.next.next = new ListNode(4);
-        ListNode mark = addTwoNumbers(l1, l2);
-        while (mark != null) {
-            System.out.print(mark.val + "->");
-            mark = mark.next;
-        }
-        System.out.print("NULL");
-    }
 }

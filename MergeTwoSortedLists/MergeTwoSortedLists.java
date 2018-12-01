@@ -53,14 +53,4 @@ public class MergeTwoSortedLists {
             return result;
         }
     }
-
-    public static void main(String[] args) {
-        ListNode l1 = new ListNode(new int[]{1, 2, 4});
-        ListNode l2 = new ListNode(new int[]{1, 2, 5});
-        ListNode res1 = new MergeTwoSortedLists().mergeTwoLists1(l1, l2);
-        System.out.println(res1);
-        ListNode res2 = new MergeTwoSortedLists().mergeTwoLists2(l1, l2);
-        System.out.println(res2);
-
-    }
 }
