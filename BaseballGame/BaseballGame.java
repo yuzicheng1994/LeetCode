@@ -2,7 +2,6 @@ import java.util.Stack;
 
 //https://leetcode-cn.com/problems/baseball-game/
 public class BaseballGame {
-
     public int calPoints(String[] ops) {
         Stack<Integer> stack = new Stack<>();
         for (String s : ops) {

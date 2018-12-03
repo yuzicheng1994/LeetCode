@@ -3,7 +3,6 @@ import java.util.LinkedList;
 
 //https://leetcode-cn.com/problems/binary-tree-postorder-traversal/
 public class BinaryTreePostorderTraversal {
-
     public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> list = new LinkedList<>();
         if (root == null) {

@@ -3,7 +3,6 @@ import java.util.LinkedList;
 
 //https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
 public class BinaryTreeInorderTraversal {
-
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> list = new LinkedList<>();
         if (root == null) {
