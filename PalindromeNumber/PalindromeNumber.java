@@ -1,6 +1,5 @@
 //https://leetcode-cn.com/problems/palindrome-number/
 public class PalindromeNumber {
-
     public boolean isPalindrome(int x) {
         int a = x, h = 1;
         if (a < 0) return false;
