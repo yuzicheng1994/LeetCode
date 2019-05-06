@@ -21,3 +21,13 @@
 | 100 | 相同的树 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SameTree/SameTree.java) |
 | 102 | 二叉树的层次遍历 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.java) |
 | 104 | 二叉树的最大深度 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java) |
+| 118 | 杨辉三角 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/PascalTriangle/PascalTriangle.java) |
+| 136 |  只出现一次的数字 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SingleNumber/SingleNumber.java) |
+| 141 | 环形链表 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/LinkedListCycle/LinkedListCycle.java) |
+| 144 | 二叉树的前序遍历 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.java) |
+| 145 | 二叉树的后序遍历 | 困难 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.java) |
+| 148 | 排序链表 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SortList/SortList.java) |
+| 203 | 移除链表元素 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RemoveLinkedListElements/RemoveLinkedListElements.java) |
+| 206 | 反转链表 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/ReverseLinkedList/ReverseLinkedList.java) |
+| 208 | 实现 Trie (前缀树) | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/Trie/Trie.java) |
+| 209 | 长度最小的子数组 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/MinimumSizeSubarraySum/MinimumSizeSubarraySum.java) |
