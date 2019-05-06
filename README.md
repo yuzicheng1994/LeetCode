@@ -30,4 +30,4 @@
 | 203 | 移除链表元素 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RemoveLinkedListElements/RemoveLinkedListElements.java) |
 | 206 | 反转链表 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/ReverseLinkedList/ReverseLinkedList.java) |
 | 208 | 实现 Trie (前缀树) | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/Trie/Trie.java) |
-| 209 | 长度最小的子数组 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/MinimumSizeSubarraySum/MinimumSizeSubarraySum.java) |
+| 209 | 长度最小的子数组 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/MinimumSizeSubarraySum/MinimumSizeSubarraySum.java) |
