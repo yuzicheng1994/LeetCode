@@ -61,3 +61,6 @@
 | 700 | 二叉搜索树中的搜索 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SearchInABinarySearchTree/SearchInABinarySearchTree.java) |
 | 701 | 二叉搜索树中的插入操作 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/InsertIntoABinarySearchTree/InsertIntoABinarySearchTree.java) |
 | 771 | 宝石与石头 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/JewelsAndStones/JewelsAndStones.java) |
+| 804 | 唯一摩尔斯密码词 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/UniqueMorseCodeWords/UniqueMorseCodeWords.java) |
+| 811 | 子域名访问计数 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SubdomainVisitCount/SubdomainVisitCount.java) |
+| 876 | 链表的中间结点 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/MiddleOfTheLinkedList/MiddleOfTheLinkedList.java) |
