@@ -31,3 +31,14 @@
 | 206 | 反转链表 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/ReverseLinkedList/ReverseLinkedList.java) |
 | 208 | 实现 Trie (前缀树) | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/Trie/Trie.java) |
 | 209 | 长度最小的子数组 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/MinimumSizeSubarraySum/MinimumSizeSubarraySum.java) |
+| 211 | 添加与搜索单词 - 数据结构设计 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/WordDictionary/WordDictionary.java) |
+| 215 | 数组中的第K个最大元素 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/KthLargestElementInAnArray/KthLargestElementInAnArray.java) |
+| 222 | 完全二叉树的节点个数 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/CountCompleteTreeNodes/CountCompleteTreeNodes.java) |
+| 225 | 用队列实现栈 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/ImplementStackUsingQueues/ImplementStackUsingQueues.java) |
+| 230 | 二叉搜索树中第K小的元素 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/KthSmallestElementInABST/KthSmallestElementInABST.java) |
+| 232 | 用栈实现队列 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/ImplementQueueUsingStacks/ImplementQueueUsingStacks.java) |
+| 234 | 回文链表 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/PalindromeLinkedList/PalindromeLinkedList.java) |
+| 283 | 移动零 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/MoveZeroes/MoveZeroes.java) |
+| 290 | 单词模式 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/WordPattern/WordPattern.java) |
+| 303 | 区域和检索 - 数组不可变 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/NumArray_303/NumArray.java) |
+| 307 | 区域和检索 - 数组可修改 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/NumArray_307/NumArray.java) |
