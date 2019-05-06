@@ -42,3 +42,13 @@
 | 290 | 单词模式 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/WordPattern/WordPattern.java) |
 | 303 | 区域和检索 - 数组不可变 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/NumArray_303/NumArray.java) |
 | 307 | 区域和检索 - 数组可修改 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/NumArray_307/NumArray.java) |
+| 344 | 反转字符串 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/ReverseString/ReverseString.java) |
+| 347 | 前K个高频元素 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/TopKFrequentElements/TopKFrequentElements.java) |
+| 349 | 两个数组的交集 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/IntersectionOfTwoArrays/IntersectionOfTwoArrays.java) |
+| 350 | 两个数组的交集 II | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/IntersectionOfTwoArraysII/IntersectionOfTwoArraysII.java) |
+| 378 | 有序矩阵中第K小的元素 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/KthSmallestElementInASortedMatrix/KthSmallestElementInASortedMatrix.java) |
+| 389 | 找不同 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/FindTheDifference/FindTheDifference.java) |
+| 450 | 删除二叉搜索树中的节点 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/DeleteNodeInABST/DeleteNodeInABST.java) |
+| 451 | 根据字符出现频率排序 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SortCharactersByFrequency/SortCharactersByFrequency.java) |
+| 463 | 岛屿的周长 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/IslandPerimeter/IslandPerimeter.java) |
+| 500 | 键盘行 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/KeyboardRow/KeyboardRow.java) |
