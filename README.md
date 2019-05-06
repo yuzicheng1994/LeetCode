@@ -14,3 +14,10 @@
 | 21 | 合并两个有序链表 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/MergeTwoSortedLists/MergeTwoSortedLists.java) |
 | 27 | 移除元素 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RemoveElement/RemoveElement.java) |
 | 48 | 旋转图像 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RotateImage/RotateImage.java) |
+| 75 | 颜色分类 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SortColors/SortColors.java) |
+| 83 | 删除排序链表中的重复元素 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.java) |
+| 94 | 二叉树的中序遍历 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.java) |
+| 98 | 验证二叉搜索树 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/ValidateBinarySearchTree/ValidateBinarySearchTree.java) |
+| 100 | 相同的树 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SameTree/SameTree.java) |
+| 102 | 二叉树的层次遍历 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.java) |
+| 104 | 二叉树的最大深度 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java) |
