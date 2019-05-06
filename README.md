@@ -52,3 +52,12 @@
 | 451 | 根据字符出现频率排序 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SortCharactersByFrequency/SortCharactersByFrequency.java) |
 | 463 | 岛屿的周长 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/IslandPerimeter/IslandPerimeter.java) |
 | 500 | 键盘行 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/KeyboardRow/KeyboardRow.java) |
+| 547 | 朋友圈 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/FriendCircles/FriendCircles.java) |
+| 557 | 反转字符串中的单词 III | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/ReverseWordsinaStringIII/ReverseWordsinaStringIII.java) |
+| 657 | 机器人能否返回原点 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RobotReturnToOrigin/RobotReturnToOrigin.java) |
+| 677 | 键值映射 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/MapSum/MapSum.java) |
+| 682 | 棒球比赛 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/BaseballGame/BaseballGame.java) |
+| 692 | 前K个高频单词 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/TopKFrequentWords/TopKFrequentWords.java) |
+| 700 | 二叉搜索树中的搜索 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SearchInABinarySearchTree/SearchInABinarySearchTree.java) |
+| 701 | 二叉搜索树中的插入操作 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/InsertIntoABinarySearchTree/InsertIntoABinarySearchTree.java) |
+| 771 | 宝石与石头 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/JewelsAndStones/JewelsAndStones.java) |
