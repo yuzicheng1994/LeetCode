@@ -6,7 +6,6 @@ public class MedianOfTwoSortedArrays {
         boolean midAmountIsDouble = (nums1Length + nums2Length) % 2 == 0;
         int mid = (nums1Length + nums2Length) / 2;
 
-
         int nums1Index = 0;
         int nums2Index = 0;
         double result = 0;
