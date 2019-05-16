@@ -28,6 +28,7 @@ public class SortList {
         if (head.next == null)
             return head;
 
+        //快慢指针寻找中点
         ListNode pre = null;
         ListNode slow = head;
         ListNode fast = head;
