@@ -1,5 +1,6 @@
 //https://leetcode-cn.com/problems/sort-list/
 public class SortList {
+    //归并排序
     private ListNode merge(ListNode l, ListNode r) {
         ListNode dummyHead = new ListNode(-1);
         ListNode cur = dummyHead;
