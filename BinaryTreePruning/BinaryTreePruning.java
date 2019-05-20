@@ -18,6 +18,7 @@ public class BinaryTreePruning {
 
         if (root.left != null) {
             pruneTree(root.left);
+
         }
 
         if (root.right != null) {
@@ -25,15 +26,13 @@ public class BinaryTreePruning {
         }
 
         boolean currentMark = judgeNode(root);
-        boolean leftMark = false;
-        boolean rightMark = false;
+        boolean leftMark = judgeNode(root.left);
+        boolean rightMark = judgeNode(root.right);
 
-        leftMark = judgeNode(root.left);
-        if (currentMark && leftMark)
+        if (leftMark)
             root.left = null;
 
-        rightMark = judgeNode(root.right);
-        if (currentMark && rightMark)
+        if (rightMark)
             root.right = null;
 
         if (currentMark && root.left == null && root.right == null)
