@@ -13,6 +13,7 @@ public class MedianOfTwoSortedArrays {
         //分治算法 参考归并排序
         for (int i = 0; i <= mid; i++) {
             int temp = 0;
+
             if (nums1Index >= nums1Length) {
                 temp = nums2[nums2Index];
                 nums2Index++;
@@ -26,11 +27,13 @@ public class MedianOfTwoSortedArrays {
                 temp = nums2[nums2Index];
                 nums2Index++;
             }
-            if (midAmountIsDouble && i == mid) {
-                result += temp;
-            } else {
-                result = temp;
-            }
+
+//            if (midAmountIsDouble && i == mid) {
+//                result += temp;
+//            } else {
+//                result = temp;
+//            }
+            result += midAmountIsDouble && i == mid ? temp : temp - result;
         }
 
         return midAmountIsDouble ? result / 2 : result;
