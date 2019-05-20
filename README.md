@@ -64,6 +64,7 @@
 | 771 | 宝石与石头 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/JewelsAndStones/JewelsAndStones.java) |
 | 804 | 唯一摩尔斯密码词 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/UniqueMorseCodeWords/UniqueMorseCodeWords.java) |
 | 811 | 子域名访问计数 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SubdomainVisitCount/SubdomainVisitCount.java) |
+| 814 | 二叉树剪枝| 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/BinaryTreePruning/BinaryTreePruning.java) |
 | 876 | 链表的中间结点 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/MiddleOfTheLinkedList/MiddleOfTheLinkedList.java) |
 | 905 | 按奇偶排序数组 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SortArrayByParity/SortArrayByParity.java) |
 | 922 | 按奇偶排序数组 II | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SortArrayByParityII/SortArrayByParityII.java) |
