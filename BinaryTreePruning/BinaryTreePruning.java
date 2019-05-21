@@ -15,16 +15,13 @@ public class BinaryTreePruning {
     public TreeNode pruneTree(TreeNode root) {
         if (root == null)
             return root;
-
-        if (root.left != null) {
+        
+        if (root.left != null) 
             pruneTree(root.left);
-
-        }
-
-        if (root.right != null) {
+        
+        if (root.right != null) 
             pruneTree(root.right);
-        }
-
+        
         boolean currentMark = judgeNode(root);
         boolean leftMark = judgeNode(root.left);
         boolean rightMark = judgeNode(root.right);
