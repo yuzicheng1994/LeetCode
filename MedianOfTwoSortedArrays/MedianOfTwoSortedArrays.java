@@ -28,11 +28,6 @@ public class MedianOfTwoSortedArrays {
                 nums2Index++;
             }
 
-//            if (midAmountIsDouble && i == mid) {
-//                result += temp;
-//            } else {
-//                result = temp;
-//            }
             result += midAmountIsDouble && i == mid ? temp : temp - result;
         }
 
