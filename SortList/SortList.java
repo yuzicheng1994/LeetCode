@@ -15,12 +15,12 @@ public class SortList {
                 r = r.next;
             }
         }
-        if (l != null) {
+
+        if (l != null)
             cur.next = l;
-        }
-        if (r != null) {
+        if (r != null)
             cur.next = r;
-        }
+
         return dummyHead.next;
     }
 
