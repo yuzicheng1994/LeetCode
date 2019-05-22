@@ -10,17 +10,14 @@ public class DeleteNodeInABST {
             root.right = deleteNode(root.right, key);
             return root;
         } else {
-            if (root.left == null) {
+            if (root.left == null)
                 return root.right;
-            }
-            if (root.right == null) {
+            if (root.right == null)
                 return root.left;
-            }
             TreeNode cur = root;
             cur = cur.left;
-            while (cur.right != null) {
+            while (cur.right != null)
                 cur = cur.right;
-            }
             root.val = cur.val;
             root.left = deleteNode(root.left, cur.val);
             return root;
