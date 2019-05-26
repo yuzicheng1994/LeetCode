@@ -13,6 +13,7 @@
 | 20 | 有效的括号 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/ValidParentheses/ValidParentheses.java) |
 | 21 | 合并两个有序链表 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/MergeTwoSortedLists/MergeTwoSortedLists.java) |
 | 27 | 移除元素 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RemoveElement/RemoveElement.java) |
+| 36 | 有效的数独 | 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/ValidSudoku/ValidSudoku.java) |
 | 48 | 旋转图像 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RotateImage/RotateImage.java) |
 | 75 | 颜色分类 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SortColors/SortColors.java) |
 | 83 | 删除排序链表中的重复元素 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.java) |
@@ -27,6 +28,7 @@
 | 144 | 二叉树的前序遍历 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.java) |
 | 145 | 二叉树的后序遍历 | 困难 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.java) |
 | 148 | 排序链表 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SortList/SortList.java) |
+| 179 | 最大数| 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/LargestNumber/LargestNumber.java) |
 | 203 | 移除链表元素 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RemoveLinkedListElements/RemoveLinkedListElements.java) |
 | 206 | 反转链表 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/ReverseLinkedList/ReverseLinkedList.java) |
 | 208 | 实现 Trie (前缀树) | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/Trie/Trie.java) |
