@@ -13,8 +13,11 @@
 | 13 | 罗马数字转整数 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RomanToInteger/RomanToInteger.java) |
 | 20 | 有效的括号 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/ValidParentheses/ValidParentheses.java) |
 | 21 | 合并两个有序链表 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/MergeTwoSortedLists/MergeTwoSortedLists.java) |
+| 24 | 两两交换链表中的节点 | 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/SwapNodesInPairs/SwapNodesInPairs.java) |
 | 27 | 移除元素 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RemoveElement/RemoveElement.java) |
+| 33 | 搜索旋转排序数组 | 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/SearchInRotatedSortedArray/SearchInRotatedSortedArray.java) |
 | 36 | 有效的数独 | 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/ValidSudoku/ValidSudoku.java) |
+| 41 | 缺失的第一个正数 | 困难 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/FirstMissingPositive/FirstMissingPositive.java) |
 | 48 | 旋转图像 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RotateImage/RotateImage.java) |
 | 75 | 颜色分类 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SortColors/SortColors.java) |
 | 83 | 删除排序链表中的重复元素 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.java) |
@@ -55,6 +58,7 @@
 | 451 | 根据字符出现频率排序 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SortCharactersByFrequency/SortCharactersByFrequency.java) |
 | 463 | 岛屿的周长 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/IslandPerimeter/IslandPerimeter.java) |
 | 500 | 键盘行 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/KeyboardRow/KeyboardRow.java) |
+| 515 | 在每个树行中找最大值 | 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/FindLargestValueInEachTreeRow/FindLargestValueInEachTreeRow.java) |
 | 547 | 朋友圈 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/FriendCircles/FriendCircles.java) |
 | 557 | 反转字符串中的单词 III | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/ReverseWordsinaStringIII/ReverseWordsinaStringIII.java) |
 | 657 | 机器人能否返回原点 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RobotReturnToOrigin/RobotReturnToOrigin.java) |
