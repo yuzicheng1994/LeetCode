@@ -14,9 +14,8 @@ public class LongestSubstringWithoutRepeatingCharacters {
                 result = result < map.size() ? map.size() : result;
                 i = map.get(cur);
                 map.clear();
-            } else {
+            } else
                 map.put(cur, i);
-            }
         }
 
         return result < map.size() ? map.size() : result;
