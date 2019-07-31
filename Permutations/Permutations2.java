@@ -9,12 +9,12 @@ public class Permutations2 {
     private boolean[] used;
 
     public List<List<Integer>> permute(int[] nums) {
-        res = new ArrayList<List<Integer>>();
+        res = new ArrayList<>();
         if (nums == null || nums.length == 0)
             return res;
 
         used = new boolean[nums.length];
-        LinkedList<Integer> p = new LinkedList<Integer>();
+        LinkedList<Integer> p = new LinkedList<>();
         generatePermutation(nums, 0, p);
 
         return res;
