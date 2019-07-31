@@ -16,6 +16,8 @@ public class Solution {
 
     private LinkedList<String> result;
 
+    // s中保存了此时从digits[0...index-1]翻译得到的一个字母字符串
+    // 寻找和digits[index]匹配的字母, 获得digits[0...index]翻译得到的解
     private void findCombination(String digits, int index, String s) {
         if (index == digits.length()) {
             result.addLast(s);
