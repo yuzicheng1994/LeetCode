@@ -20,6 +20,7 @@
 | 33 | 搜索旋转排序数组 | 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/SearchInRotatedSortedArray/SearchInRotatedSortedArray.java) |
 | 36 | 有效的数独 | 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/ValidSudoku/ValidSudoku.java) |
 | 41 | 缺失的第一个正数 | 困难 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/FirstMissingPositive/FirstMissingPositive.java) |
+| 46 | 全排列 | 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/tree/master/Permutations) |
 | 48 | 旋转图像 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RotateImage/RotateImage.java) |
 | 75 | 颜色分类 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SortColors/SortColors.java) |
 | 83 | 删除排序链表中的重复元素 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.java) |
