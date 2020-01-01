@@ -22,7 +22,9 @@
 | 41 | 缺失的第一个正数 | 困难 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/FirstMissingPositive/FirstMissingPositive.java) |
 | 46 | 全排列 | 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/tree/master/Permutations) |
 | 48 | 旋转图像 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RotateImage/RotateImage.java) |
+| 70 | 爬楼梯 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/ClimbingStairs/ClimbingStairs.java) |
 | 75 | 颜色分类 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SortColors/SortColors.java) |
+| 78 | 子集 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/Subsets/Subsets.java) |
 | 83 | 删除排序链表中的重复元素 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.java) |
 | 94 | 二叉树的中序遍历 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.java) |
 | 98 | 验证二叉搜索树 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/ValidateBinarySearchTree/ValidateBinarySearchTree.java) |
