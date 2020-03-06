@@ -80,3 +80,4 @@
 | 876 | 链表的中间结点 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/MiddleOfTheLinkedList/MiddleOfTheLinkedList.java) |
 | 905 | 按奇偶排序数组 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SortArrayByParity/SortArrayByParity.java) |
 | 922 | 按奇偶排序数组 II | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SortArrayByParityII/SortArrayByParityII.java) |
+| 1114 | 按序打印 | 简单 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/PrintInOrder/Foo.java) |
