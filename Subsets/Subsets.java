@@ -6,15 +6,15 @@ import java.util.List;
 public class Subsets {
     private List<List<Integer>> results;
 
-    private void findSubset(List<List<Integer>> results, List<Integer> numList, int size, int startNumber, LinkedList<Integer> result) {
+    private void findSubset(List<Integer> numList, int size, int start, LinkedList<Integer> result) {
         if (result.size() == size) {
             results.add((LinkedList<Integer>) result.clone());
             return;
         }
 
-        for (int i = startNumber; i < numList.size(); i++) {
+        for (int i = start; i < numList.size(); i++) {
             result.addLast(numList.get(i));
-            findSubset(results, numList, size, i + 1, result);
+            findSubset(numList, size, i + 1, result);
             result.removeLast();
         }
     }
@@ -26,7 +26,7 @@ public class Subsets {
 
         results = new ArrayList<>();
         for (int i = 0; i < numList.size() + 1; i++)
-            findSubset(results, numList, i, 0, new LinkedList<>());
+            findSubset(numList, i, 0, new LinkedList<>());
 
         return results;
     }
