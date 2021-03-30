@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 //https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
-public class Solution {
+public class LetterCombinationsOfAPhoneNumber {
     private String letterMap[] = {
             "abc",  //2
             "def",  //3
