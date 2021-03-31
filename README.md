@@ -17,12 +17,15 @@
 | 21 | 合并两个有序链表 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/MergeTwoSortedLists/MergeTwoSortedLists.java) |
 | 24 | 两两交换链表中的节点 | 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/SwapNodesInPairs/SwapNodesInPairs.java) |
 | 27 | 移除元素 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RemoveElement/RemoveElement.java) |
+| 28 | 实现 strStr() | 简单 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/ImplementstrStr/ImplementstrStr.java) |
 | 33 | 搜索旋转排序数组 | 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/SearchInRotatedSortedArray/SearchInRotatedSortedArray.java) |
 | 36 | 有效的数独 | 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/ValidSudoku/ValidSudoku.java) |
+| 39 | 组合总和 | 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/CombinationSum/CombinationSum.java) |
 | 41 | 缺失的第一个正数 | 困难 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/FirstMissingPositive/FirstMissingPositive.java) |
 | 46 | 全排列 | 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/tree/master/Permutations) |
 | 48 | 旋转图像 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/RotateImage/RotateImage.java) |
 | 70 | 爬楼梯 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/ClimbingStairs/ClimbingStairs.java) |
+| 74 | 搜索二维矩阵 | 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/SearchA2DMatrix/SearchA2DMatrix.java) |
 | 75 | 颜色分类 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/SortColors/SortColors.java) |
 | 77 | 组合 | 中等 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/Combinations/Combinations.java) |
 | 78 | 子集 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/Subsets/Subsets.java) |
@@ -50,6 +53,7 @@
 | 230 | 二叉搜索树中第K小的元素 | 中等 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/KthSmallestElementInABST/KthSmallestElementInABST.java) |
 | 232 | 用栈实现队列 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/ImplementQueueUsingStacks/ImplementQueueUsingStacks.java) |
 | 234 | 回文链表 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/PalindromeLinkedList/PalindromeLinkedList.java) |
+| 257 | 二叉树的所有路径 | 简单 | [代码](https://github.com/yuzicheng1994/LeetCode/blob/master/BinaryTreePaths/BinaryTreePaths.java) |
 | 283 | 移动零 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/MoveZeroes/MoveZeroes.java) |
 | 290 | 单词模式 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/WordPattern/WordPattern.java) |
 | 303 | 区域和检索 - 数组不可变 | 简单 | [代码](https://github.com/yuzicheng1994/leetcode/blob/master/NumArray_303/NumArray.java) |
