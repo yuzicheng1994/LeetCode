@@ -1,5 +1,5 @@
 //https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
-public class MedianOfTwoSortedArrays {
+public class MedianOfTwoSortedArrays1 {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int nums1Length = nums1.length;
         int nums2Length = nums2.length;
@@ -10,7 +10,6 @@ public class MedianOfTwoSortedArrays {
         int nums2Index = 0;
         double result = 0;
 
-        //分治算法 参考归并排序
         for (int i = 0; i <= mid; i++) {
             int temp = 0;
 
